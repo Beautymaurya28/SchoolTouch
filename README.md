@@ -28,8 +28,8 @@ Open your terminal and clone the project:
 
 Bash
 
-git clone https://github.com/YourUsername/SchoolTouch-ERP.git
-cd SchoolTouch-ERP
+git clone https://github.com/Beautymaurya28/SchoolTouch.git
+cd SchoolTouch
 Step 2: Backend (Server) Setup
 Navigate to the server directory:
 
