@@ -91,6 +91,9 @@ Student	View-only: Timetable, Results, Homework.	/student/dashboard/my-timetable
 Parent	View-only: Child's status, Homework, Chat with Teacher.	/parent/dashboard/fees, /parent/dashboard/chat
 (Note: For Teacher/Student/Parent access, you must first create those profiles through the Admin dashboard.)
 
+
+
+
  Project Structure
 SchoolTouch-ERP/
 ├── client/
